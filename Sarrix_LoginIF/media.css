@@ -1,0 +1,14 @@
+@media screen and (max-width: 650px) {
+    .Login_form {
+        width: 90%;
+        height: 60%;
+    }
+    .check_container {
+        font-size: 17px;
+        padding-left: 15%;
+        top: 83%;
+    }
+    input[type=submit] {
+        top: 80%;
+    }
+}
